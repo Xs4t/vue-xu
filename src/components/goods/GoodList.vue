@@ -72,6 +72,7 @@ export default {
         }
         img{
             width: 100%;
+            
         }
         .info{
             background-color:#eee;
